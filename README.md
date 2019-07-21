@@ -6,6 +6,7 @@ Having more high cards remaining in the deck favors the player. Each card is ass
 
 
 Value 	 Cards
+
  +1 	   2, 3, 4, 5, 6
   0 	   7, 8, 9
  -1 	   10, ‘J’, ‘Q’, ‘K’,‘A’
