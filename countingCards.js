@@ -19,6 +19,10 @@ switch card {
     break;
   }
   
-  if
+  if (count > 0) {
+  return count + "Bet";
+  } else if {
+  return ;
+  }
   
 }
