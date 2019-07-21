@@ -23,6 +23,12 @@ switch card {
   return count + " Bet";
   } else if (count > 6 || count < 11) {
   return count + " Hold";
+  } else {
+  return count + " Hold";
   }
   
+  return count;
+  
 }
+
+cc(2); cc(3); cc(7); cc('K'); cc('A');
