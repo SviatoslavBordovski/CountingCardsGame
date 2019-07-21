@@ -11,6 +11,14 @@ switch card {
     break;
     
   case 10:
-    
+    case "J":
+    case "Q":
+    case "K":
+    case "A":
+    count--;
+    break;
   }
+  
+  if
+  
 }
