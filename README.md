@@ -5,7 +5,7 @@ In the casino game Blackjack, a player can gain an advantage over the house by k
 Having more high cards remaining in the deck favors the player. Each card is assigned a value according to the table below. When the count is positive, the player should bet high. When the count is zero or negative, the player should bet low.
 
 
-Value 	 Cards
+Value        Cards
 
  +1 	     2, 3, 4, 5, 6
   
